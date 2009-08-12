@@ -1,0 +1,7 @@
+List of Plugins that I have built/building.
+
+1. Weather Plugin. It fetches weather data from the XML feeds provided by weather.com, and pushes them to the Pidgin Status message window. Great to let people what weather are you upto :)
+
+2. An activity logger, which logs each sign in and sign out of the user. Though very trivial and uninteresting, I made a graph out of this plugin and was amazed to see the regularity and religiousness that it followed :). The graph can be found on the same page. Hope you have loads of fun plotting your own. If in trouble mail the log file to: snktagawal@gmail.com and I'll reply you with your statistics.
+
+3. A collaborative pidgin whiteboard. Which will help people using Pidgin as their IM Client, to do collaborative drawing in Real Time, much on the lines on MSN whiteboard. But targeted towards a Implementation rather than a specific service.
